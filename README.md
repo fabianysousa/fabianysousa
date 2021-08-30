@@ -1,4 +1,6 @@
-## ✨ **_Fabiany Sousa_** ✨
+## 🌺 **_Fabiany Sousa_** 🌺
+
+<img src="https://github.com/fabianysousa/fabianysousa/blob/master/assets/regina-george-blowkiss.gif">
 
 ### Hi there! 👋 This is my profile!
 
@@ -9,4 +11,5 @@
 
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianysousa&hide=html&layout=compact&theme=synthwave"/>
 <td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabianysousa&theme=synthwave"/>
+  
 ![Snake animation](https://github.com/fabianysousa/fabianysousa/blob/output/github-contribution-grid-snake.svg)
