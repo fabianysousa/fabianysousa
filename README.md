@@ -1,6 +1,5 @@
 ## 🌺 **_Fabiany Sousa_** 🌺
 
-<img src="https://github.com/fabianysousa/fabianysousa/blob/master/assets/regina-george-blowkiss.gif">
 
 ### Hi there! 🦄 This is my profile!
 
